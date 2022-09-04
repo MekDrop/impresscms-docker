@@ -1,0 +1,3 @@
+[submodule "impresscms"]
+	path = impresscms
+	url = git@github.com:ImpressCMS/impresscms.git
